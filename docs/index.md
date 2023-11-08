@@ -3,7 +3,10 @@ hide:
     - navigation
 ---
 
+# Hello!
+
 ![eckert](assets/images/eckert.jpg){align=left width=280}
+
 
 My work focusses on the application of Bayesian graphical models to cognitive and perceptual decision-making. 
 
@@ -11,6 +14,6 @@ I "obtained" my Ph.D. from Charité Berlin and the Bernstein Center for Computat
 
 My research interests: 
 
-- [Psychosis](https://academic.oup.com/schizophreniabulletin/article/49/2/397/6849479)
-- [Active Inference](https://osf.io/preprints/psyarxiv/8aexf)
-- [Sensory processing](https://2023.ccneuro.org/view_paper.php?PaperNum=1185)
+- [Psychosis](https://academic.oup.com/schizophreniabulletin/article/49/2/397/6849479){target=_blank}
+- [Active Inference](https://osf.io/preprints/psyarxiv/8aexf){target=_blank}
+- [Sensory processing](https://2023.ccneuro.org/view_paper.php?PaperNum=1185){target=_blank}
