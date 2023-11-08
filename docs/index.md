@@ -3,20 +3,14 @@ hide:
     - navigation
 ---
 
-# Welcome to MkDocs
+![eckert](assets/images/eckert.jpg){align=left width=200}
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+My work focusses on the application of Bayesian graphical models to cognitive and perceptual decision-making. 
 
-## Commands
+I "obtained" my Ph.D. from Charité Berlin and the Bernstein Center for Computational Neuroscience in Berlin, where I was funded by the Einstein Center for Neuroscience - waiting for my defense since 1 year and counting! Thanks Charité Promotionsbuero!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+My research interests: 
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Psychosis](https://academic.oup.com/schizophreniabulletin/article/49/2/397/6849479)
+- [Active Inference](https://osf.io/preprints/psyarxiv/8aexf)
+- [Sensory processing](https://2023.ccneuro.org/view_paper.php?PaperNum=1185)
