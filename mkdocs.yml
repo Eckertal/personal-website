@@ -14,7 +14,7 @@ theme:                  ##under theme goes everything design related
       - navigation.top
 docs_dir: docs 
 nav: 
-  - Home: about.md
+  - Home: index.md
   - Publications: publications.md
   - Outreach: outreach.md
   - CV: curriculum.md
