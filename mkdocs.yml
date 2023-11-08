@@ -1,0 +1,59 @@
+site_name: Anna-Lena Eckert      
+theme:                  ##under theme goes everything design related
+    name: material
+    logo: assets/images/logo_books.png
+    palette:
+      scheme: slate
+      primary: purple
+      accent: yellow
+    font: 
+        text: Poppins
+    features: 
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.top
+docs_dir: docs 
+nav: 
+  - Home: about.md
+  - Publications: publications.md
+  - Outreach: outreach.md
+  - CV: curriculum.md
+  - Other: other.md
+  - Contact: contact.md
+extra: 
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Eckertal1
+    - icon: material/email
+      link: mailto:anna-lena.eckert@uni-marburg.de
+    - icon: fontawesome/brands/github
+      link: https://github.com/Eckertal
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-3520-5714
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - codehilite
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg       
