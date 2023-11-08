@@ -7,7 +7,7 @@ hide:
 
 My work focusses on the application of Bayesian graphical models to cognitive and perceptual decision-making. 
 
-I "obtained" my Ph.D. from Charité Berlin and the Bernstein Center for Computational Neuroscience in Berlin, where I was funded by the Einstein Center for Neuroscience - waiting for my defense since 1 year and counting! Thanks Charité Promotionsbuero! :smile:
+I "obtained" my Ph.D. from Charité Berlin and the Bernstein Center for Computational Neuroscience in Berlin, where I was funded by the Einstein Center for Neuroscience - waiting for my defense since 1 year and counting! Thanks Charité Promotionsbuero! :heart: 
 
 My research interests: 
 

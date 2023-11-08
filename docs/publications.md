@@ -11,11 +11,19 @@ See also my profile on [Google Scholar](https://scholar.google.com/citations?hl=
 
 - Eckert, A. L., Pawlowski, J., Rief, W., Endres, D., & Kirchner, L. (2023). Simulating Active Inference of Interpersonaal Context Within and Across Mental Disorders. [PsyArXiv](https://osf.io/preprints/psyarxiv/8aexf/)
 
-- 
+- In preparation: PerMAPs
+
+- In preparation: Bayesian Model of Sensory Attenuation
 
 ### 2022
 
 - Eckert, A. L., Pabst, K., Endres, D. (2022) A Bayesian Model for Chronic Pain. [Front Pain Res](https://www.frontiersin.org/articles/10.3389/fpain.2022.966034/full)
+
+- Kirchner, L., Eckert, A. L., & Berg, M. (2022). From broken models to treatment selection: Active inference as a tool to guide clinical research and practice. Clinical Psychology in Europe, 4(2).
+
+- Endres, D., Pabst, K., Eckert, A. L., & Schween, R. (2022). A collection of identities for variational inference with exponential-family models.
+
+- Kirchner, L., Eckert, A. L., Berg, M., Endres, D., Straube, B., & Rief, W. (2022). Better Safe Than Sorry?-an Active Inference Approach to Biased Social Inference in Depression.
 
 ## PhD
 
