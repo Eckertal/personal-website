@@ -3,7 +3,7 @@ hide:
     - navigation
 ---
 
-I am always happy to connect! :smile:
+I am always happy to connect! :handshake:
 
 <!--/* Buttons with social media icons next to each other */-->
 <b><h3 style="position: absolute; top: 60%; left: 35%; transform: translate(-50%, -50%); margin: auto; text-align:center"><button>[:fontawesome-brands-github:](https://github.com/Eckertal){ .md-button .md-button--primary }</button></h3></b>

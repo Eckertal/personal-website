@@ -3,7 +3,7 @@ hide:
     - navigation
 ---
 
-![eckert](assets/images/eckert.jpg){align=left width=200}
+![eckert](assets/images/eckert.jpg){align=left width=280}
 
 My work focusses on the application of Bayesian graphical models to cognitive and perceptual decision-making. 
 
