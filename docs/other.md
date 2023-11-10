@@ -3,10 +3,12 @@ hide:
     - navigation
 ---
 
+![eckert](assets/images/halfberlin.jpg){align=right width=190}
 
-I love to run. My favourite distance is the half marathon, I participate in around 3-5 events each year.
+- I love to run :runner: My favourite distance is the half marathon, I participate in around 3-5 events each year.
 
-I love to read. I read mostly non-fiction and classics but I'll read anything, really. 
+- I love to read :books: I read mostly non-fiction and classics but I'll read anything, really. 
 
-![eckert](assets/images/halfberlin.jpg){align=left width=100}
-![eckert](assets/images/logo_books.png){align=right width=200}
+- I am a first-generation academic :fontawesome-solid-graduation-cap: and was active in the German community [Arbeiterkind.de](https://www.arbeiterkind.de/) for a while. 
+
+

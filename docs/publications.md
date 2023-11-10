@@ -11,19 +11,19 @@ See also my profile on [Google Scholar](https://scholar.google.com/citations?hl=
 
 - Eckert, A. L., Pawlowski, J., Rief, W., Endres, D., & Kirchner, L. (2023). Simulating Active Inference of Interpersonal Context Within and Across Mental Disorders. [PsyArXiv](https://osf.io/preprints/psyarxiv/8aexf/){ target=_blank }
 
-- Under review: PerMAPs
+- Awaiting feedback from co-authors: PerMAPs
 
-- Under review: Bayesian Model of Sensory Attenuation
+- Awaiting feedback from co-authors: Bayesian Model of Sensory Attenuation
 
 ### 2022
 
 - Eckert, A. L., Pabst, K., Endres, D. (2022) A Bayesian Model for Chronic Pain. [Front Pain Res](https://www.frontiersin.org/articles/10.3389/fpain.2022.966034/full){ target=_blank }
 
-- Kirchner, L., Eckert, A. L., & Berg, M. (2022). From broken models to treatment selection: Active inference as a tool to guide clinical research and practice. Clinical Psychology in Europe, 4(2).
+- Kirchner, L., Eckert, A. L., & Berg, M. (2022). From broken models to treatment selection: Active inference as a tool to guide clinical research and practice. [Clinical Psychology in Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9667420/), 4(2).
 
-- Endres, D., Pabst, K., Eckert, A. L., & Schween, R. (2022). A collection of identities for variational inference with exponential-family models.
+- Endres, D., Pabst, K., Eckert, A. L., & Schween, R. (2022). A collection of identities for variational inference with exponential-family models [data_UMR](https://data.uni-marburg.de/handle/dataumr/179).
 
-- Kirchner, L., Eckert, A. L., Berg, M., Endres, D., Straube, B., & Rief, W. (2022). Better Safe Than Sorry?-an Active Inference Approach to Biased Social Inference in Depression.
+- Kirchner, L., Eckert, A. L., Berg, M., Endres, D., Straube, B., & Rief, W. (2022). Better Safe Than Sorry?-an Active Inference Approach to Biased Social Inference in Depression [PsyArXiv](https://osf.io/preprints/psyarxiv/bp9re/).
 
 ## PhD
 

@@ -8,9 +8,10 @@ hide:
 ![eckert](assets/images/eckert.jpg){align=left width=280}
 
 
-My work focusses on the application of Bayesian graphical models to cognitive and perceptual decision-making. 
+I am a staff scientist at Philipps-Universität Marburg, Germany. In my research, I apply Bayesian graphical models to cognitive and perceptual decision-making, with a special interest in mental disorders such as autism, psychosis, and depression. I mostly use psychophysics and computational modelling, but currently playing with fMRI and EEG. 
 
-I "obtained" my Ph.D. from Charité Berlin and the Bernstein Center for Computational Neuroscience in Berlin, where I was funded by the Einstein Center for Neuroscience - waiting for my defense since 1 year and counting! Thanks Charité Promotionsbuero! :middle_finger:
+
+I did my Ph.D. research at Charité Berlin, the Bernstein Center for Computational Neuroscience, and the Einstein Center for Neuroscience. My Ph.D. work was focussed on mechanisms of sensory information-processing in psychosis. 
 
 My research interests: 
 
