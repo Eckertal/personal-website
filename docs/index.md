@@ -7,9 +7,7 @@ hide:
 
 ![eckert](assets/images/eckert.jpg){align=left width=280}
 
-
 I am a staff scientist at Philipps-Universität Marburg, Germany. In my research, I apply Bayesian graphical models to cognitive and perceptual decision-making, with a special interest in mental disorders such as autism, psychosis, and depression. I mostly use psychophysics and computational modelling, but currently playing with fMRI and EEG. 
-
 
 I did my Ph.D. research at Charité Berlin, the Bernstein Center for Computational Neuroscience, and the Einstein Center for Neuroscience. My Ph.D. work was focussed on mechanisms of sensory information-processing in psychosis. 
 
