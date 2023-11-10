@@ -13,6 +13,6 @@ I did my Ph.D. research at Charité Berlin, the Bernstein Center for Computation
 
 My research interests: 
 
-- [Psychosis](https://academic.oup.com/schizophreniabulletin/article/49/2/397/6849479){target=_blank}
-- [Active Inference](https://osf.io/preprints/psyarxiv/8aexf){target=_blank}
-- [Sensory processing](https://2023.ccneuro.org/view_paper.php?PaperNum=1185){target=_blank}
+- [Psychosis](https://academic.oup.com/schizophreniabulletin/article/49/2/397/6849479)
+- [Active Inference](https://osf.io/preprints/psyarxiv/8aexf)
+- [Sensory processing](https://2023.ccneuro.org/view_paper.php?PaperNum=1185)
