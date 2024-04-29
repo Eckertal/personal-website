@@ -7,13 +7,19 @@ See also my profile on [Google Scholar](https://scholar.google.com/citations?hl=
 
 ## Post-doc
 
+### 2024
+
+- Kirchner, L., Eckert, A. L., Berg, M., Endres, D., Straube, B., & Rief, W. (2024) An active inference approach to interpersonal differences in depression. [New Ideas in Psychology](https://www.sciencedirect.com/science/article/pii/S0732118X24000205){ target=_blank } 74, 101092
+
+- Eckert, A. L., Fuehrer, E., Schmitter, C., Straube, B., Fiehler, K., & Endres, D. (2024) Modelling Sensory Attenuation as Bayesian Causal Inference across two Datasets [pre-print](https://europepmc.org/article/ppr/ppr828602){target = _blank}
+
+- Eckert, A. L., Blume, J. S., Knopp, B., Schuetz, A., & Endres, D. (2024) Distinct Biases Shape Perceptual Inference Dynamics Along the Autism-Psychosis Spectra [pre-print](https://europepmc.org/article/ppr/ppr827423){target=_blank}
+
+
 ### 2023
 
 - Eckert, A. L., Pawlowski, J., Rief, W., Endres, D., & Kirchner, L. (2023). Simulating Active Inference of Interpersonal Context Within and Across Mental Disorders. [PsyArXiv](https://osf.io/preprints/psyarxiv/8aexf/){ target=_blank }
 
-- Awaiting feedback from co-authors: PerMAPs
-
-- Awaiting feedback from co-authors: Bayesian Model of Sensory Attenuation
 
 ### 2022
 
