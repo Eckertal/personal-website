@@ -7,13 +7,16 @@ hide:
 
 ### 2024
 
-- Invited talk: PuG 2024 (May 29 - June 1st, 2024), Hamburg, Germany (Symposium: Perception under uncertainty)
-    - Title: "Cross-Modality Evidence for Reduced Choice History Biases in Psychosis-Prone
-Individuals" 
-
-
 - Invited talk: DKP 2024 (June 11 - 15), Berlin, Germany (Symposium: Formal modelling of interpersonal and social mechanisms in psychopathology)
     - Title: "Interpersonal interactions and active inference: a simulation-based analysis in mental disorder"
+
+- Invited talk: PuG 2024 (May 29 - June 1st, 2024), Hamburg, Germany (Symposium: Perception under uncertainty)
+    - Title: "Cross-Modality Evidence for Reduced Choice History Biases in Psychosis-Prone
+Individuals"
+
+- Talk: Mind Brain Body Symposium (March 11 - March 13, 2024), Berlin, Germany
+	- Title: "Bayesian Causal Inference Underlies Tactile Sensory Attenuation"
+
 
 
 ## Conference posters
