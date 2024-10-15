@@ -7,6 +7,9 @@ hide:
 
 ### 2024
 
+- Invited talk: Research Seminar Neuroradiology (Oct. 24), TU Munich, Germany
+	- Title: Bayesian graphical networks for perceptual inference and decision-making
+
 - Invited talk: DKP 2024 (June 11 - 15), Berlin, Germany (Symposium: Formal modelling of interpersonal and social mechanisms in psychopathology)
     - Title: "Interpersonal interactions and active inference: a simulation-based analysis in mental disorder"
 
