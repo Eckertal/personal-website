@@ -3,9 +3,9 @@ hide:
     - navigation
 ---
 
-![eckert](assets/images/runnning_pics.jpg){align=left width=20}
+![eckert](assets/images/running_pics.jpg){align=left width=20}
 
-- I love to run :runner: My favourite distance is the half marathon, I participate in around 3-5 events each year. My latest PB is 1:36 (Milano, Italy, 2024). 
+- I love to run :runner: My favourite distance is the half marathon, I participate in around 3-5 events each year. My latest PB is 1:36 (Milano, Italy, Nov. 2024). 
 
 - I love to read :books: I read mostly non-fiction and classics but I'll read anything, really. 
 
