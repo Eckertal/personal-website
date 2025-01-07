@@ -9,6 +9,8 @@ See also my profile on [Google Scholar](https://scholar.google.com/citations?hl=
 
 ### 2024
 
+- Kirchner, L., Kube, T., Berg, M., Eckert, A. L., Straube, B., Endres, D., & Rief, W. (2024) Social expectations in depression. [Nature Reviews Psychology](https://www.nature.com/articles/s44159-024-00386-x)
+
 - Kirchner, L., Eckert, A. L., Berg, M., Endres, D., Straube, B., & Rief, W. (2024) An active inference approach to interpersonal differences in depression. [New Ideas in Psychology](https://www.sciencedirect.com/science/article/pii/S0732118X24000205){ target=_blank } 74, 101092
 
 - Eckert, A. L., Fuehrer, E., Schmitter, C., Straube, B., Fiehler, K., & Endres, D. (2024) Modelling Sensory Attenuation as Bayesian Causal Inference across two Datasets [pre-print](https://europepmc.org/article/ppr/ppr828602){target = _blank}
