@@ -5,6 +5,12 @@ hide:
 
 ## Conference talks
 
+### 2025
+
+- Invited talk: Computational Clinical Psychology and Psychotherapy Network meeting [CCCP](https://ccpp.network/)
+	- Title: "Using Bayesian Graphical Networks to understand decision-making in psychopathology"
+
+
 ### 2024
 
 - Invited talk: Research Seminar Neuroradiology (Oct. 24), TU Munich, Germany

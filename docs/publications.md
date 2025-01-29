@@ -7,6 +7,11 @@ See also my profile on [Google Scholar](https://scholar.google.com/citations?hl=
 
 ## Post-doc
 
+### 2025
+
+- Eckert, A. L.; Fuehrer, E.; Schmitter, C.; Straube, B.; Fiehler, K.; Endres, D. (2025) Modelling sensory attenuation as Bayesian causal inference across two datasets. [PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317924)
+
+
 ### 2024
 
 - Kirchner, L., Kube, T., Berg, M., Eckert, A. L., Straube, B., Endres, D., & Rief, W. (2024) Social expectations in depression. [Nature Reviews Psychology](https://www.nature.com/articles/s44159-024-00386-x)
