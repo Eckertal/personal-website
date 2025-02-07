@@ -3,6 +3,16 @@ hide:
     - navigation
 ---
 
+## Science communication
+
+#### 2025
+
+- Featured article in the university magazine on sensory attenuation [Link](https://www.uni-marburg.de/de/aktuelles/news/2025/psy2025-1)
+	- "Psychologen entschlüsseln, warum wir uns nicht selbst kitzeln können"
+
+- Featured in hr4 morning show with a radio interview on Bayesian perception and sensory attenuation
+
+
 ## Conference talks
 
 ### 2025
