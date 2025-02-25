@@ -10,7 +10,9 @@ hide:
 - Featured article in the university magazine on sensory attenuation [Link](https://www.uni-marburg.de/de/aktuelles/news/2025/psy2025-1)
 	- "Psychologen entschlüsseln, warum wir uns nicht selbst kitzeln können"
 
-- Featured in [hr4](https://www.hr4.de/programm/index.html) morning show with a radio interview on Bayesian perception and sensory attenuation 📻
+- Featured in hr4 and BR24 on their morning & afternoon shows with a radio snippet on sensory attenuation 📻
+
+- Featured in [rbb24](https://www.inforadio.de/rubriken/interviews/2025/02/20/kitzeln-geht-nicht-gehirn-interne-externe-reize.html) info radio with a live interview 📻
 
 ### 2023
 
