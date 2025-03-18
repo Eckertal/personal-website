@@ -3,25 +3,12 @@ hide:
     - navigation
 ---
 
-## Science communication
-
-### 2025
-
-- Featured article in the university magazine on sensory attenuation [Link](https://www.uni-marburg.de/de/aktuelles/news/2025/psy2025-1)
-	- "Psychologen entschlüsseln, warum wir uns nicht selbst kitzeln können"
-
-- Featured in hr4 and BR24 on their morning & afternoon shows with a radio snippet on sensory attenuation 📻
-
-- Featured in [rbb24](https://www.inforadio.de/rubriken/interviews/2025/02/20/kitzeln-geht-nicht-gehirn-interne-externe-reize.html) info radio with a live interview 📻
-
-### 2023
-
-- Science Slam @ Long Night of Sciences Berlin (1st prize) 🏅
-	- "Is your brain a computer?"
-
 ## Conference talks
 
 ### 2025
+
+- Accepted symposium @ [PuG Würzburg](https://www.pug2025.org/de) (June 2025), co-chairing with Elisabeth Sterner
+	- Title: "Active Inference in Psychiatry: Understanding Mechanisms of Psychopathology"
 
 - Invited talk: Computational Clinical Psychology and Psychotherapy Network meeting [CCCP](https://ccpp.network/)
 	- Title: "Using Bayesian Graphical Networks to understand decision-making in psychopathology"
@@ -67,3 +54,20 @@ Individuals"
 ### 2018
 
 - Tagung experimentell arbeitender Psycholog:innen (TeaP), Marburg, Germany
+
+
+## Science communication
+
+### 2025
+
+- Featured article in the university magazine on sensory attenuation [Link](https://www.uni-marburg.de/de/aktuelles/news/2025/psy2025-1)
+	- "Psychologen entschlüsseln, warum wir uns nicht selbst kitzeln können"
+
+- Featured in hr4 and BR24 on their morning & afternoon shows with a radio snippet on sensory attenuation 📻
+
+- Featured in [rbb24](https://www.inforadio.de/rubriken/interviews/2025/02/20/kitzeln-geht-nicht-gehirn-interne-externe-reize.html) info radio with a live interview 📻
+
+### 2023
+
+- Science Slam @ Long Night of Sciences Berlin (1st prize) 🏅
+	- "Is your brain a computer?"

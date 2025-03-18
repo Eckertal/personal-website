@@ -3,9 +3,7 @@ hide:
     - navigation
 --- 
 
-“I have not failed. I've just found 10,000 ways that won't work.” - Thomas A. Edison
-
-My failures and rejections!
+I think rejections are an important indicator of whether you have put yourself "out there". After all, can't be rejected if you are not trying. So, here are my failures and rejections!
 
 
 ### 2025
