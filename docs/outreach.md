@@ -36,6 +36,10 @@ Individuals"
 
 ## Conference posters
 
+### 2025
+
+- Accepted poster at Computational Psychiatry Conference 2025 (July), Tübingen
+
 ### 2023
 
 - Cognitive Computational Neuroscience (CCN), Oxford, UK
