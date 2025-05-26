@@ -23,8 +23,8 @@ nav:
   - Contact: contact.md
 extra: 
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/Eckertal1
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/eckertal.bsky.social
     - icon: material/email
       link: mailto:anna-lena.eckert@uni-marburg.de
     - icon: fontawesome/brands/github
