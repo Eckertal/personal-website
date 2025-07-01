@@ -9,7 +9,7 @@ I think rejections are an important indicator of whether you have put yourself "
 ### 2025
 
 - Application for a Dutch Fellowship rejected 💔
-- Conference symposium at Computational Psychiatry Conference rejected 💔
+- Conference symposium rejected 💔
 
 
 ### 2024
