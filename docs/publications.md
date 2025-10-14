@@ -9,6 +9,8 @@ See also my profile on [Google Scholar](https://scholar.google.com/citations?hl=
 
 ### 2025
 
+- Eckert, A. L. (2025) Cognitive control under active inference: from habits to metacognition. Comment on "Active inference and cognitive control: Balancing deliberation and habits through precision optimization" by Riccardo Proietti, Thomas Parr, Allessia Tessari, Karl Friston & Giovanni Pezzulo. [Physics of Life Reviews](https://www.sciencedirect.com/science/article/abs/pii/S1571064525001484?via%3Dihub)
+
 - Eckert, A. L.; Fuehrer, E.; Schmitter, C.; Straube, B.; Fiehler, K.; Endres, D. (2025) Modelling sensory attenuation as Bayesian causal inference across two datasets. [PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317924)
 
 
