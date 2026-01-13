@@ -7,11 +7,11 @@ hide:
 
 ![eckert](assets/images/eckert.jpg){align=left width=280}
 
-News 🌍 I will join the group of Rick Adams at UCL as a post-doc in January 2026! More on this soon... 
+I am currently a research fellow at UCL with Rick Adams, where I am working on computational approaches to goal planning in humans and mice, and how it might break down in psychosis. 
 
-I am currently a post-doc at the Theoretical Cognitive Neuroscience Group (PI: Dominik Endres) at Philipps-Universität Marburg, Germany. In my research, I apply Bayesian graphical models to cognitive and perceptual decision-making, with a special interest in mental disorders such as autism, psychosis, and depression. 
+Previously, I was a post-doc at the Theoretical Cognitive Neuroscience Group (PI: Dominik Endres) at Philipps-Universität Marburg, Germany. Here, I applied graphical models (such as Active Inference) to perception and decision-making.
 
-I did my Ph.D. at the Visual Perception Group (PI: Philipp Sterzer) at Charité Berlin, the Bernstein Center for Computational Neuroscience, and the Einstein Center for Neuroscience. My Ph.D. focussed on mechanisms of sensory information-processing in psychosis. I received the [Robert Koch Prize](https://www.ecn-berlin.de/news-reader/robert-koch-prize-of-charite-2024-for-dr-anna-lena-eckert.html) for my dissertation.
+I did my Ph.D. at the Visual Perception Group (PI: Philipp Sterzer) at Charité Berlin and the Bernstein Center for Computational Neuroscience, funded by the Einstein Center for Neuroscience. My Ph.D. focussed on mechanisms of sensory information-processing in psychosis. I received the [Robert Koch Prize](https://www.ecn-berlin.de/news-reader/robert-koch-prize-of-charite-2024-for-dr-anna-lena-eckert.html) for my dissertation.
 
 My research interests: 
 
