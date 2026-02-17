@@ -7,7 +7,7 @@ hide:
 
 ### 2025
 
-- Accepted symposium @ [PuG Würzburg](https://www.pug2025.org/de) (June 2025), co-chairing with Elisabeth Sterner
+- Symposium chair @ [PuG Würzburg](https://www.pug2025.org/de) (June 2025), co-chairing with Elisabeth Sterner
 	- Title: "Active Inference in Psychiatry: Understanding Mechanisms of Psychopathology"
 
 - Invited talk: Computational Clinical Psychology and Psychotherapy Network meeting [CCCP](https://ccpp.network/)
@@ -38,7 +38,7 @@ Individuals"
 
 ### 2025
 
-- Accepted poster at Computational Psychiatry Conference 2025 (July), Tübingen
+- Computational Psychiatry Conference 2025, Tübingen
 
 ### 2023
 
