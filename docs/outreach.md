@@ -3,6 +3,27 @@ hide:
     - navigation
 ---
 
+## Miscellaneous & sci comm
+
+### 2026
+
+- Invited to the Lindau [Nobel Laureate Meeting](https://www.lindau-nobel.org/)
+	- Nominated by University of Marburg, I will spend a week at Bodensee discussing science & networking with global ECR and nobel laureates. 
+
+### 2025
+
+- Featured article in the university magazine on sensory attenuation [Link](https://www.uni-marburg.de/de/aktuelles/news/2025/psy2025-1)
+	- "Psychologen entschlüsseln, warum wir uns nicht selbst kitzeln können"
+
+- Featured in hr4 and BR24 on their morning & afternoon shows with a radio snippet on sensory attenuation 📻
+
+- Featured in [rbb24](https://www.inforadio.de/rubriken/interviews/2025/02/20/kitzeln-geht-nicht-gehirn-interne-externe-reize.html) info radio with a live interview 📻
+
+### 2023
+
+- Science Slam @ Long Night of Sciences Berlin (1st prize) 🏅
+	- "Is your brain a computer?"
+
 ## Conference talks
 
 ### 2025
@@ -59,19 +80,3 @@ Individuals"
 
 - Tagung experimentell arbeitender Psycholog:innen (TeaP), Marburg, Germany
 
-
-## Science communication
-
-### 2025
-
-- Featured article in the university magazine on sensory attenuation [Link](https://www.uni-marburg.de/de/aktuelles/news/2025/psy2025-1)
-	- "Psychologen entschlüsseln, warum wir uns nicht selbst kitzeln können"
-
-- Featured in hr4 and BR24 on their morning & afternoon shows with a radio snippet on sensory attenuation 📻
-
-- Featured in [rbb24](https://www.inforadio.de/rubriken/interviews/2025/02/20/kitzeln-geht-nicht-gehirn-interne-externe-reize.html) info radio with a live interview 📻
-
-### 2023
-
-- Science Slam @ Long Night of Sciences Berlin (1st prize) 🏅
-	- "Is your brain a computer?"
