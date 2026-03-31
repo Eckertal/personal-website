@@ -11,6 +11,7 @@ hide:
 	- Nominated by University of Marburg, I will spend a week at Bodensee discussing science & networking with global ECR and nobel laureates. 
 
 ### 2025
+- Recipient of CMBB's Kommunikatorpreis for outstanding contributions to science communication [Link](https://www.cmbb-fcmh.de/de/forschung/kommunikatorpreis/kommunikator)
 
 - Featured article in the university magazine on sensory attenuation [Link](https://www.uni-marburg.de/de/aktuelles/news/2025/psy2025-1)
 	- "Psychologen entschlüsseln, warum wir uns nicht selbst kitzeln können"
