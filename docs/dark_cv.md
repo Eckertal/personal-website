@@ -6,6 +6,11 @@ hide:
 I think rejections are an important indicator of whether you have put yourself "out there". After all, can't be rejected if you are not trying. So, here are my failures and rejections!
 
 
+### 2026
+
+- Reviewer 3 in peak condition, suggests that I reconsider career choices (1&2 were nicer though) 💔
+
+
 ### 2025
 
 - Application for a Dutch Fellowship rejected 💔
